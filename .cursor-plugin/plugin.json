@@ -1,0 +1,27 @@
+{
+  "name": "fastapitestpre",
+  "displayName": "FastAPItestpre",
+  "version": "0.1.0",
+  "description": "MCP Server for Cursor",
+  "author": {
+    "name": "OpenPlug.ai User",
+    "email": "support@openplug.ai.io"
+  },
+  "license": "MIT",
+  "keywords": [
+    "cursor",
+    "plugin",
+    "mcp",
+    "ai-tools",
+    "openplug.ai"
+  ],
+  "icon": "https://openplug.ai.io/favicon.ico",
+  "skills": "skills",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/openplug.ai-user/fastapitestpre"
+  },
+  "engines": {
+    "cursor": "^0.1.0"
+  }
+}
