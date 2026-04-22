@@ -1,0 +1,25 @@
+# Cursor AI Rules for FastAPItestpre
+
+You have access to the `FastAPItestpre` MCP server tools.
+Purpose: 
+
+## Usage Guidelines
+- When the user asks related questions, prefer using the `fastapitestpre` MCP tools.
+- You can access these tools by typing `@` followed by the server name.
+
+## Available Tools (Highlights)
+- `health_check_health_get`: Health Check
+- `api_info_info_get`: Api Info
+- `register_register_post`: Register
+- `login_login_post`: Login
+- `get_public_data_public_data_get`: Get Public Data
+- `profile_profile_get`: Profile
+- `create_post_create_post_post`: Create Post
+- `update_profile_update_profile_put`: Update Profile
+- `delete_account_delete_account_delete`: Delete Account
+- `list_users_list_users_get`: List Users
+
+## Interaction Pattern
+1. Analyze user intent.
+2. If the user needs data or actions from FastAPItestpre, call the appropriate MCP tool.
+3. Process the results and explain them clearly to the user.
