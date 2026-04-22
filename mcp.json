@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "fastapitestpre": {
+      "type": "sse",
+      "url": "https://fastapitestpre.vercel.app/sse"
+    }
+  }
+}
